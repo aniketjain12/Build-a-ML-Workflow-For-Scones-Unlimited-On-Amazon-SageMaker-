@@ -51,7 +51,6 @@ Before running the project, ensure you have the following installed:
 - AWS CLI
 - AWS Account with access to SageMaker
 - Python 3.7+
-- Docker (if using custom containers)
 - Jupyter Notebook or JupyterLab
 
 
