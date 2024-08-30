@@ -70,7 +70,6 @@ Before running the project, ensure you have the following installed:
 
 ## Pipeline Architecture
 
-![Pipeline Architecture](Step Functions ScreenShots/Success Screenshot.png)
 
 The pipeline includes the following stages:
 
